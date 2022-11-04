@@ -4,6 +4,8 @@
 This repo accompanies the paper 'Typical Yet Unlikely: Using Information Theoretic Approaches to Identify Outliers which Lie Close to the Mean' https://arxiv.org/abs/2211.00338
 
 
+### Notebooks
+
 Typicality.ipynb provides the code used to generate the main figures in the text.
 
 
@@ -14,3 +16,5 @@ chi-square_p_values.ipynb provides the code for testing the lengths of multi-dim
 
 
 
+### Reference
+Vowels, M.J. (2022) Typical Yet Unlikely: Using Information Theoretic Approaches to Identify Outliers which Lie Close to the Mean. arXiv preprint, arXiv:2211.00338

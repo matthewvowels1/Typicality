@@ -1,8 +1,7 @@
 # Typicality
 
 
-This repo accompanies the paper 'Typical Yet Unlikely: Using Information Theoretic Approaches to Identify Outliers which Lie Close to the Mean' https://arxiv.org/abs/2211.00338
-
+This repo accompanies the paper 'Typical Yet Unlikely: Using Information Theoretic Approaches to Identify Outliers which Lie Close to the Mean' 
 
 ### Notebooks
 
@@ -17,4 +16,3 @@ This repo accompanies the paper 'Typical Yet Unlikely: Using Information Theoret
 
 
 ### Reference
-Vowels, M.J. (2022) Typical Yet Unlikely: Using Information Theoretic Approaches to Identify Outliers which Lie Close to the Mean. arXiv preprint, arXiv:2211.00338

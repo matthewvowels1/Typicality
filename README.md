@@ -1,7 +1,6 @@
 # Typicality
 
 
-This repo accompanies the paper 'Typical Yet Unlikely: Using Information Theoretic Approaches to Identify Outliers which Lie Close to the Mean' 
 
 ### Notebooks
 
